@@ -1,6 +1,6 @@
 ## Hi, I'm Gabo Leiva 👋
 
-## - 🔭 I’m currently working on ...
+## I’m currently 💻 working on personal projects and doing freelancer works 😎.
 
 <!--
 **gaboleiva-dsgn/gaboleiva-dsgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
