@@ -1,4 +1,5 @@
-## Hi, I'm Gabo Leiva 👋
+## 👋 Hi, I'm Gabo Leiva
+Graphic designer by profession, web developer by specialization, Ux/UI by interest in perfecting and full stack developer by addiction to writing code.
 
 ## I’m currently working on personal projects and doing freelancer works 😎.
   💻  [My portafolio](https://gaboleiva-dsgn.github.io/portafolio-gabo/)
