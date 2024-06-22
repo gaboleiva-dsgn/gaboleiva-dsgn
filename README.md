@@ -4,6 +4,12 @@ Graphic designer by profession, web developer by specialization, Ux/UI by intere
 ## I’m currently working on personal projects and doing freelancer works 😎.
   💻  [My portafolio](https://gaboleiva-dsgn.github.io/portafolio-gabo/) [My Linkedin](https://www.linkedin.com/in/gaboleiva/)
 
+  | TITULO1| TITULO2|
+
+| ----- | ---- |
+
+| CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
+
 ## My professional skills
 
 - HTML5
