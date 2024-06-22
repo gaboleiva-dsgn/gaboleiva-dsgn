@@ -24,6 +24,16 @@ Graphic designer by profession, web developer by specialization, Ux/UI by intere
 - Bootstrap
 - Figma
 - Visual Studio
+
+## My personal skills
+
+- Football player
+- Ciclist
+- Thinker
+- Philosopher
+- Photographer
+- Cameraman
+- Good person...
 <!--
 **gaboleiva-dsgn/gaboleiva-dsgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
