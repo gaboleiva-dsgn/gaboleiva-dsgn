@@ -1,12 +1,15 @@
 ![banner-gabo](https://github.com/gaboleiva-dsgn/gaboleiva-dsgn/assets/156265166/79f8965e-e756-4df9-a98b-6bd728ad479f)
 <div align="center">
-  # 👋 I'm Gabo Leiva
+  <h1> 👋 I'm Gabo Leiva</h1>
 </div>
 
 
 Graphic designer by profession, web developer by specialization, Ux/UI by interest in perfecting and full stack developer by addiction to writing code.
 
-### I’m currently working on personal projects and doing freelancer works 😎.
+> \[!IMPORTANT]
+>
+> I’m currently working on personal projects and doing freelancer works 😎.
+
 | 💻  [My portafolio](https://gaboleiva-dsgn.github.io/portafolio-gabo/) | [My Linkedin](https://www.linkedin.com/in/gaboleiva/) |
 |-----|------|
 
