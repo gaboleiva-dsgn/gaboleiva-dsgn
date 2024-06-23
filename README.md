@@ -1,8 +1,4 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gaboleiva-dsgn/gaboleiva-dsgn/issues/1#issue-2368135158">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/gaboleiva-dsgn/gaboleiva-dsgn/issues/1#issue-2368135158">
- <img alt="Banner Gabo" src="https://github.com/gaboleiva-dsgn/gaboleiva-dsgn/issues/1#issue-2368135158">
-</picture>
+![banner-gabo](https://github.com/gaboleiva-dsgn/gaboleiva-dsgn/assets/156265166/79f8965e-e756-4df9-a98b-6bd728ad479f)
 
 # 👋 I'm Gabo Leiva
 Graphic designer by profession, web developer by specialization, Ux/UI by interest in perfecting and full stack developer by addiction to writing code.
