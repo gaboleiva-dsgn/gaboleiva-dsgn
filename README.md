@@ -4,6 +4,8 @@
  <img alt="banner-gabo" src="https://github.com/gaboleiva-dsgn/gaboleiva-dsgn/blob/main/assets/img/banner-gabo.webp">
 </picture>
 
+## Hi, I'm Gabo Leiva 👋
+
 Graphic designer by profession, web developer by specialization, Ux/UI by interest in perfecting and full stack developer by addiction to writing code.
 
 > \[!IMPORTANT]
