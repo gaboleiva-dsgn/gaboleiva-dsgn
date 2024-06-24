@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gaboleiva-dsgn/gaboleiva-dsgn/blob/main/assets/img/banner-gabo.webp">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/gaboleiva-dsgn/gaboleiva-dsgn/blob/main/assets/img/banner-gabo.webp">
- <img alt="banner-gabo" src="https://github.com/gaboleiva-dsgn/gaboleiva-dsgn/blob/main/assets/img/banner-gabo.webp">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gaboleiva-dsgn/gaboleiva-dsgn/blob/main/assets/img/banner-gabo[github].jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/gaboleiva-dsgn/gaboleiva-dsgn/blob/main/assets/img/banner-gabo[github].jpg">
+ <img alt="banner-gabo" src="https://github.com/gaboleiva-dsgn/gaboleiva-dsgn/blob/main/assets/img/banner-gabo[github].jpg">
 </picture>
 
 ### Hi, I'm Gabo Leiva 👋
